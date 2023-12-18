@@ -1,0 +1,15 @@
+C:\Users\Ygornocce\Desktop\Calculadora_senai\Calculadora_senai\bin\Debug\net6.0\Calculadora_senai.exe
+C:\Users\Ygornocce\Desktop\Calculadora_senai\Calculadora_senai\bin\Debug\net6.0\Calculadora_senai.deps.json
+C:\Users\Ygornocce\Desktop\Calculadora_senai\Calculadora_senai\bin\Debug\net6.0\Calculadora_senai.runtimeconfig.json
+C:\Users\Ygornocce\Desktop\Calculadora_senai\Calculadora_senai\bin\Debug\net6.0\Calculadora_senai.dll
+C:\Users\Ygornocce\Desktop\Calculadora_senai\Calculadora_senai\bin\Debug\net6.0\Calculadora_senai.pdb
+C:\Users\Ygornocce\Desktop\Calculadora_senai\Calculadora_senai\obj\Debug\net6.0\Calculadora_senai.csproj.AssemblyReference.cache
+C:\Users\Ygornocce\Desktop\Calculadora_senai\Calculadora_senai\obj\Debug\net6.0\Calculadora_senai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ygornocce\Desktop\Calculadora_senai\Calculadora_senai\obj\Debug\net6.0\Calculadora_senai.AssemblyInfoInputs.cache
+C:\Users\Ygornocce\Desktop\Calculadora_senai\Calculadora_senai\obj\Debug\net6.0\Calculadora_senai.AssemblyInfo.cs
+C:\Users\Ygornocce\Desktop\Calculadora_senai\Calculadora_senai\obj\Debug\net6.0\Calculadora_senai.csproj.CoreCompileInputs.cache
+C:\Users\Ygornocce\Desktop\Calculadora_senai\Calculadora_senai\obj\Debug\net6.0\Calculadora_senai.dll
+C:\Users\Ygornocce\Desktop\Calculadora_senai\Calculadora_senai\obj\Debug\net6.0\refint\Calculadora_senai.dll
+C:\Users\Ygornocce\Desktop\Calculadora_senai\Calculadora_senai\obj\Debug\net6.0\Calculadora_senai.pdb
+C:\Users\Ygornocce\Desktop\Calculadora_senai\Calculadora_senai\obj\Debug\net6.0\Calculadora_senai.genruntimeconfig.cache
+C:\Users\Ygornocce\Desktop\Calculadora_senai\Calculadora_senai\obj\Debug\net6.0\ref\Calculadora_senai.dll
