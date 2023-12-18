@@ -1,0 +1,15 @@
+C:\Users\Ygornocce\Desktop\JogoDeD\JogoDeD\bin\Debug\net6.0\JogoDeD.exe
+C:\Users\Ygornocce\Desktop\JogoDeD\JogoDeD\bin\Debug\net6.0\JogoDeD.deps.json
+C:\Users\Ygornocce\Desktop\JogoDeD\JogoDeD\bin\Debug\net6.0\JogoDeD.runtimeconfig.json
+C:\Users\Ygornocce\Desktop\JogoDeD\JogoDeD\bin\Debug\net6.0\JogoDeD.dll
+C:\Users\Ygornocce\Desktop\JogoDeD\JogoDeD\bin\Debug\net6.0\JogoDeD.pdb
+C:\Users\Ygornocce\Desktop\JogoDeD\JogoDeD\obj\Debug\net6.0\JogoDeD.csproj.AssemblyReference.cache
+C:\Users\Ygornocce\Desktop\JogoDeD\JogoDeD\obj\Debug\net6.0\JogoDeD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ygornocce\Desktop\JogoDeD\JogoDeD\obj\Debug\net6.0\JogoDeD.AssemblyInfoInputs.cache
+C:\Users\Ygornocce\Desktop\JogoDeD\JogoDeD\obj\Debug\net6.0\JogoDeD.AssemblyInfo.cs
+C:\Users\Ygornocce\Desktop\JogoDeD\JogoDeD\obj\Debug\net6.0\JogoDeD.csproj.CoreCompileInputs.cache
+C:\Users\Ygornocce\Desktop\JogoDeD\JogoDeD\obj\Debug\net6.0\JogoDeD.dll
+C:\Users\Ygornocce\Desktop\JogoDeD\JogoDeD\obj\Debug\net6.0\refint\JogoDeD.dll
+C:\Users\Ygornocce\Desktop\JogoDeD\JogoDeD\obj\Debug\net6.0\JogoDeD.pdb
+C:\Users\Ygornocce\Desktop\JogoDeD\JogoDeD\obj\Debug\net6.0\JogoDeD.genruntimeconfig.cache
+C:\Users\Ygornocce\Desktop\JogoDeD\JogoDeD\obj\Debug\net6.0\ref\JogoDeD.dll

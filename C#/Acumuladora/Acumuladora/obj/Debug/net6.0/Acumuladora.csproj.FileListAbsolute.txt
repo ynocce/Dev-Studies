@@ -1,0 +1,15 @@
+C:\Users\Ygornocce\Desktop\Acumuladora\Acumuladora\bin\Debug\net6.0\Acumuladora.exe
+C:\Users\Ygornocce\Desktop\Acumuladora\Acumuladora\bin\Debug\net6.0\Acumuladora.deps.json
+C:\Users\Ygornocce\Desktop\Acumuladora\Acumuladora\bin\Debug\net6.0\Acumuladora.runtimeconfig.json
+C:\Users\Ygornocce\Desktop\Acumuladora\Acumuladora\bin\Debug\net6.0\Acumuladora.dll
+C:\Users\Ygornocce\Desktop\Acumuladora\Acumuladora\bin\Debug\net6.0\Acumuladora.pdb
+C:\Users\Ygornocce\Desktop\Acumuladora\Acumuladora\obj\Debug\net6.0\Acumuladora.csproj.AssemblyReference.cache
+C:\Users\Ygornocce\Desktop\Acumuladora\Acumuladora\obj\Debug\net6.0\Acumuladora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ygornocce\Desktop\Acumuladora\Acumuladora\obj\Debug\net6.0\Acumuladora.AssemblyInfoInputs.cache
+C:\Users\Ygornocce\Desktop\Acumuladora\Acumuladora\obj\Debug\net6.0\Acumuladora.AssemblyInfo.cs
+C:\Users\Ygornocce\Desktop\Acumuladora\Acumuladora\obj\Debug\net6.0\Acumuladora.csproj.CoreCompileInputs.cache
+C:\Users\Ygornocce\Desktop\Acumuladora\Acumuladora\obj\Debug\net6.0\Acumuladora.dll
+C:\Users\Ygornocce\Desktop\Acumuladora\Acumuladora\obj\Debug\net6.0\refint\Acumuladora.dll
+C:\Users\Ygornocce\Desktop\Acumuladora\Acumuladora\obj\Debug\net6.0\Acumuladora.pdb
+C:\Users\Ygornocce\Desktop\Acumuladora\Acumuladora\obj\Debug\net6.0\Acumuladora.genruntimeconfig.cache
+C:\Users\Ygornocce\Desktop\Acumuladora\Acumuladora\obj\Debug\net6.0\ref\Acumuladora.dll

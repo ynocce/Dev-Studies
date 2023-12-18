@@ -1,0 +1,108 @@
+C:\Users\lm_za\source\repos\Clinica\Clinica\bin\Debug\Clinica.exe.config
+C:\Users\lm_za\source\repos\Clinica\Clinica\bin\Debug\Clinica.exe
+C:\Users\lm_za\source\repos\Clinica\Clinica\bin\Debug\Clinica.pdb
+C:\Users\lm_za\source\repos\Clinica\Clinica\obj\Debug\Clinica.csproj.AssemblyReference.cache
+C:\Users\lm_za\source\repos\Clinica\Clinica\obj\Debug\Clinica.csproj.SuggestedBindingRedirects.cache
+C:\Users\lm_za\source\repos\Clinica\Clinica\obj\Debug\Clinica.Medicos.resources
+C:\Users\lm_za\source\repos\Clinica\Clinica\obj\Debug\Clinica.Pacientes.resources
+C:\Users\lm_za\source\repos\Clinica\Clinica\obj\Debug\Clinica.Properties.Resources.resources
+C:\Users\lm_za\source\repos\Clinica\Clinica\obj\Debug\Clinica.csproj.GenerateResource.cache
+C:\Users\lm_za\source\repos\Clinica\Clinica\obj\Debug\Clinica.csproj.CoreCompileInputs.cache
+C:\Users\lm_za\source\repos\Clinica\Clinica\obj\Debug\Clinica.exe
+C:\Users\lm_za\source\repos\Clinica\Clinica\obj\Debug\Clinica.pdb
+C:\Users\lm_za\source\repos\Clinica\Clinica\obj\Debug\Clinica.Inicio.resources
+C:\Users\lm_za\source\repos\Clinica\Clinica\obj\Debug\Clinica.PacientesCriar.resources
+C:\Users\lm_za\source\repos\Clinica\Clinica\obj\Debug\Clinica.PacienteEditar.resources
+C:\Users\lm_za\source\repos\Clinica\Clinica\obj\Debug\Clinica.MedicosCriar.resources
+C:\Users\lm_za\source\repos\Clinica\Clinica\obj\Debug\Clinica.MedicoEditar.resources
+C:\Users\lm_za\source\repos\Clinica\Clinica\obj\Debug\Clinica.FuncionarioCriar.resources
+C:\Users\lm_za\source\repos\Clinica\Clinica\obj\Debug\Clinica.FuncionarioEditar.resources
+C:\Users\lm_za\source\repos\Clinica\Clinica\obj\Debug\Clinica.Funcionarios.resources
+C:\Users\lm_za\source\repos\Clinica\Clinica\obj\Debug\Clinica.Consultas.resources
+C:\Users\lm_za\source\repos\Clinica\Clinica\obj\Debug\Clinica.ConsultasCriar.resources
+C:\Users\lm_za\source\repos\Clinica\Clinica\obj\Debug\Clinica.ConsultasEditar.resources
+C:\Users\lm_za\source\repos\Clinica\Clinica\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\lm_za\source\repos\Clinica\Clinica\bin\Debug\EntityFramework.dll
+C:\Users\lm_za\source\repos\Clinica\Clinica\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lm_za\source\repos\Clinica\Clinica\bin\Debug\Google.Protobuf.dll
+C:\Users\lm_za\source\repos\Clinica\Clinica\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\lm_za\source\repos\Clinica\Clinica\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\lm_za\source\repos\Clinica\Clinica\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\lm_za\source\repos\Clinica\Clinica\bin\Debug\MySql.Data.dll
+C:\Users\lm_za\source\repos\Clinica\Clinica\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\lm_za\source\repos\Clinica\Clinica\bin\Debug\Renci.SshNet.dll
+C:\Users\lm_za\source\repos\Clinica\Clinica\bin\Debug\System.Buffers.dll
+C:\Users\lm_za\source\repos\Clinica\Clinica\bin\Debug\System.Memory.dll
+C:\Users\lm_za\source\repos\Clinica\Clinica\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lm_za\source\repos\Clinica\Clinica\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lm_za\source\repos\Clinica\Clinica\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\lm_za\source\repos\Clinica\Clinica\bin\Debug\Zstandard.Net.dll
+C:\Users\lm_za\source\repos\Clinica\Clinica\bin\Debug\EntityFramework.xml
+C:\Users\lm_za\source\repos\Clinica\Clinica\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lm_za\source\repos\Clinica\Clinica\bin\Debug\Google.Protobuf.pdb
+C:\Users\lm_za\source\repos\Clinica\Clinica\bin\Debug\Google.Protobuf.xml
+C:\Users\lm_za\source\repos\Clinica\Clinica\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\lm_za\source\repos\Clinica\Clinica\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\lm_za\source\repos\Clinica\Clinica\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\lm_za\source\repos\Clinica\Clinica\bin\Debug\MySql.Data.xml
+C:\Users\lm_za\source\repos\Clinica\Clinica\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\lm_za\source\repos\Clinica\Clinica\bin\Debug\Renci.SshNet.xml
+C:\Users\lm_za\source\repos\Clinica\Clinica\bin\Debug\System.Buffers.xml
+C:\Users\lm_za\source\repos\Clinica\Clinica\bin\Debug\System.Memory.xml
+C:\Users\lm_za\source\repos\Clinica\Clinica\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lm_za\source\repos\Clinica\Clinica\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lm_za\source\repos\Clinica\Clinica\obj\Debug\Clinica.csproj.CopyComplete
+C:\Users\Ygornocce\Desktop\Clinica (1)\Clinica\Clinica\bin\Debug\Clinica.exe.config
+C:\Users\Ygornocce\Desktop\Clinica (1)\Clinica\Clinica\bin\Debug\Clinica.exe
+C:\Users\Ygornocce\Desktop\Clinica (1)\Clinica\Clinica\bin\Debug\Clinica.pdb
+C:\Users\Ygornocce\Desktop\Clinica (1)\Clinica\Clinica\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ygornocce\Desktop\Clinica (1)\Clinica\Clinica\bin\Debug\EntityFramework.dll
+C:\Users\Ygornocce\Desktop\Clinica (1)\Clinica\Clinica\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ygornocce\Desktop\Clinica (1)\Clinica\Clinica\bin\Debug\Google.Protobuf.dll
+C:\Users\Ygornocce\Desktop\Clinica (1)\Clinica\Clinica\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Ygornocce\Desktop\Clinica (1)\Clinica\Clinica\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Ygornocce\Desktop\Clinica (1)\Clinica\Clinica\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Ygornocce\Desktop\Clinica (1)\Clinica\Clinica\bin\Debug\MySql.Data.dll
+C:\Users\Ygornocce\Desktop\Clinica (1)\Clinica\Clinica\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\Ygornocce\Desktop\Clinica (1)\Clinica\Clinica\bin\Debug\Renci.SshNet.dll
+C:\Users\Ygornocce\Desktop\Clinica (1)\Clinica\Clinica\bin\Debug\System.Buffers.dll
+C:\Users\Ygornocce\Desktop\Clinica (1)\Clinica\Clinica\bin\Debug\System.Memory.dll
+C:\Users\Ygornocce\Desktop\Clinica (1)\Clinica\Clinica\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ygornocce\Desktop\Clinica (1)\Clinica\Clinica\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ygornocce\Desktop\Clinica (1)\Clinica\Clinica\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ygornocce\Desktop\Clinica (1)\Clinica\Clinica\bin\Debug\Zstandard.Net.dll
+C:\Users\Ygornocce\Desktop\Clinica (1)\Clinica\Clinica\bin\Debug\EntityFramework.xml
+C:\Users\Ygornocce\Desktop\Clinica (1)\Clinica\Clinica\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ygornocce\Desktop\Clinica (1)\Clinica\Clinica\bin\Debug\Google.Protobuf.pdb
+C:\Users\Ygornocce\Desktop\Clinica (1)\Clinica\Clinica\bin\Debug\Google.Protobuf.xml
+C:\Users\Ygornocce\Desktop\Clinica (1)\Clinica\Clinica\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Ygornocce\Desktop\Clinica (1)\Clinica\Clinica\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Ygornocce\Desktop\Clinica (1)\Clinica\Clinica\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Ygornocce\Desktop\Clinica (1)\Clinica\Clinica\bin\Debug\MySql.Data.xml
+C:\Users\Ygornocce\Desktop\Clinica (1)\Clinica\Clinica\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Ygornocce\Desktop\Clinica (1)\Clinica\Clinica\bin\Debug\Renci.SshNet.xml
+C:\Users\Ygornocce\Desktop\Clinica (1)\Clinica\Clinica\bin\Debug\System.Buffers.xml
+C:\Users\Ygornocce\Desktop\Clinica (1)\Clinica\Clinica\bin\Debug\System.Memory.xml
+C:\Users\Ygornocce\Desktop\Clinica (1)\Clinica\Clinica\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ygornocce\Desktop\Clinica (1)\Clinica\Clinica\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ygornocce\Desktop\Clinica (1)\Clinica\Clinica\obj\Debug\Clinica.csproj.AssemblyReference.cache
+C:\Users\Ygornocce\Desktop\Clinica (1)\Clinica\Clinica\obj\Debug\Clinica.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ygornocce\Desktop\Clinica (1)\Clinica\Clinica\obj\Debug\Clinica.Consultas.resources
+C:\Users\Ygornocce\Desktop\Clinica (1)\Clinica\Clinica\obj\Debug\Clinica.ConsultasCriar.resources
+C:\Users\Ygornocce\Desktop\Clinica (1)\Clinica\Clinica\obj\Debug\Clinica.ConsultasEditar.resources
+C:\Users\Ygornocce\Desktop\Clinica (1)\Clinica\Clinica\obj\Debug\Clinica.FuncionarioCriar.resources
+C:\Users\Ygornocce\Desktop\Clinica (1)\Clinica\Clinica\obj\Debug\Clinica.FuncionarioEditar.resources
+C:\Users\Ygornocce\Desktop\Clinica (1)\Clinica\Clinica\obj\Debug\Clinica.Funcionarios.resources
+C:\Users\Ygornocce\Desktop\Clinica (1)\Clinica\Clinica\obj\Debug\Clinica.Inicio.resources
+C:\Users\Ygornocce\Desktop\Clinica (1)\Clinica\Clinica\obj\Debug\Clinica.MedicoEditar.resources
+C:\Users\Ygornocce\Desktop\Clinica (1)\Clinica\Clinica\obj\Debug\Clinica.Medicos.resources
+C:\Users\Ygornocce\Desktop\Clinica (1)\Clinica\Clinica\obj\Debug\Clinica.MedicosCriar.resources
+C:\Users\Ygornocce\Desktop\Clinica (1)\Clinica\Clinica\obj\Debug\Clinica.PacienteEditar.resources
+C:\Users\Ygornocce\Desktop\Clinica (1)\Clinica\Clinica\obj\Debug\Clinica.Pacientes.resources
+C:\Users\Ygornocce\Desktop\Clinica (1)\Clinica\Clinica\obj\Debug\Clinica.PacientesCriar.resources
+C:\Users\Ygornocce\Desktop\Clinica (1)\Clinica\Clinica\obj\Debug\Clinica.Properties.Resources.resources
+C:\Users\Ygornocce\Desktop\Clinica (1)\Clinica\Clinica\obj\Debug\Clinica.csproj.GenerateResource.cache
+C:\Users\Ygornocce\Desktop\Clinica (1)\Clinica\Clinica\obj\Debug\Clinica.csproj.CoreCompileInputs.cache
+C:\Users\Ygornocce\Desktop\Clinica (1)\Clinica\Clinica\obj\Debug\Clinica.csproj.CopyComplete
+C:\Users\Ygornocce\Desktop\Clinica (1)\Clinica\Clinica\obj\Debug\Clinica.exe
+C:\Users\Ygornocce\Desktop\Clinica (1)\Clinica\Clinica\obj\Debug\Clinica.pdb
