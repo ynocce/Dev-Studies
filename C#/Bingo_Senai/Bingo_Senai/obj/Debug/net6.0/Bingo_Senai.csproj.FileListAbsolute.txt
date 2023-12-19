@@ -1,0 +1,15 @@
+C:\Users\Ygornocce\Desktop\Bingo_Senai\Bingo_Senai\bin\Debug\net6.0\Bingo_Senai.exe
+C:\Users\Ygornocce\Desktop\Bingo_Senai\Bingo_Senai\bin\Debug\net6.0\Bingo_Senai.deps.json
+C:\Users\Ygornocce\Desktop\Bingo_Senai\Bingo_Senai\bin\Debug\net6.0\Bingo_Senai.runtimeconfig.json
+C:\Users\Ygornocce\Desktop\Bingo_Senai\Bingo_Senai\bin\Debug\net6.0\Bingo_Senai.dll
+C:\Users\Ygornocce\Desktop\Bingo_Senai\Bingo_Senai\bin\Debug\net6.0\Bingo_Senai.pdb
+C:\Users\Ygornocce\Desktop\Bingo_Senai\Bingo_Senai\obj\Debug\net6.0\Bingo_Senai.csproj.AssemblyReference.cache
+C:\Users\Ygornocce\Desktop\Bingo_Senai\Bingo_Senai\obj\Debug\net6.0\Bingo_Senai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ygornocce\Desktop\Bingo_Senai\Bingo_Senai\obj\Debug\net6.0\Bingo_Senai.AssemblyInfoInputs.cache
+C:\Users\Ygornocce\Desktop\Bingo_Senai\Bingo_Senai\obj\Debug\net6.0\Bingo_Senai.AssemblyInfo.cs
+C:\Users\Ygornocce\Desktop\Bingo_Senai\Bingo_Senai\obj\Debug\net6.0\Bingo_Senai.csproj.CoreCompileInputs.cache
+C:\Users\Ygornocce\Desktop\Bingo_Senai\Bingo_Senai\obj\Debug\net6.0\Bingo_Senai.dll
+C:\Users\Ygornocce\Desktop\Bingo_Senai\Bingo_Senai\obj\Debug\net6.0\refint\Bingo_Senai.dll
+C:\Users\Ygornocce\Desktop\Bingo_Senai\Bingo_Senai\obj\Debug\net6.0\Bingo_Senai.pdb
+C:\Users\Ygornocce\Desktop\Bingo_Senai\Bingo_Senai\obj\Debug\net6.0\Bingo_Senai.genruntimeconfig.cache
+C:\Users\Ygornocce\Desktop\Bingo_Senai\Bingo_Senai\obj\Debug\net6.0\ref\Bingo_Senai.dll

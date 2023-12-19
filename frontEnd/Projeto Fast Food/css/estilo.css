@@ -1,0 +1,230 @@
+*{
+    margin: 0;
+    border: 0;
+    padding: 0;
+
+}
+html{
+    font-size: 62.5%;
+}
+header{
+    background-color: rgba(255,0,0);
+    color: #fff;
+    font-family: Arial;
+    width: 100%;
+    position: fixed;
+    text-shadow: 2px 2px 3px #000;
+}
+@media(min-width: 320px) and (max-width: 450px){
+    header{
+        text-align: center;
+    }
+}
+h3{
+    font-size: 3rem;
+    font-family: Arial;
+    margin: 0;
+    padding: 5px;
+    text-align: center;
+}
+h4{
+    font-size: 1rem;
+    font-family: Arial;
+    margin: 0;
+    padding-left: 5px;
+    padding-bottom: 5px;
+}
+body{
+    background-color: rgba(255,255,224);
+}
+.container{
+    display: block;
+    background-color: #fff;
+    width:  95%;
+    box-shadow: 2px 2px 10px rgba(255,215,0);
+    margin: 0 auto;
+    max-width: 90%;
+    max-height: 90%;
+    min-height: 0px;
+    min-width: 0px;
+    margin-top: 50px;
+}
+footer{
+    font-family: Arial;
+    color: #fff;
+    background-color: rgba(255,0,0);;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-shadow: 2px 2px 3px #000;
+}
+p{
+    font-family: arial;
+    text-align: justify;
+    padding: 10px;
+    font-size: 1.6rem;
+}
+h1{
+    font-family: Arial;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 5.0rem;
+    color: rgba(255,0,0);
+    text-shadow: 2px 2px 2px #000;
+
+}
+@media(min-width: 320px) and (max-width: 450px){
+    h1{
+        font-family: Arial;
+        text-align: left;
+        padding-top: 10px;
+        font-size: 3.0rem;
+        color: rgba(255,0,0);
+        text-shadow: 2px 2px 2px #000;
+    
+    }
+}
+h2{
+    font-family: arial;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 2.2rem;
+    color: rgba(255,0,0);
+    text-shadow: 1px 1px #000;
+}
+.texto-footer{
+    font-family: Arial;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 1.6rem;
+    padding-bottom: 10px;
+}
+.compre{
+    padding: 5px;
+    background-color: rgba(255,255,0, 0.9);
+    width: 15rem;
+    height: 10rem;
+    position: fixed;
+    right: 0;
+    text-align: center;
+    margin-top: 3%;
+    z-index: 1;
+    border-radius: 30px;
+    border: solid #fff;
+}
+@media(min-width: 320px) and (max-width: 450px){
+    .compre{
+        padding: 5px;
+        background-color: rgba(255,255,0, 0.9);
+        width: 35%;
+        height: 10rem;
+        position: fixed;
+        right: 0;
+        text-align: center;
+        margin-top: 3%;
+        z-index: 1;
+        border-radius: 30px;
+        border: solid #fff;
+    }
+}
+h5{
+    font-family: arial;
+    text-align: center;
+    padding-bottom:  9px;
+    font-size: 1.9rem;
+}
+button{
+    font-family: arial;
+    text-align: center;
+    padding: 1px;
+    font-size: 2em;
+    background-color: rgba(127,255,0, 1);
+    color: #FFF;
+    border: solid;
+    border-radius: 20px;
+    width: 90%;
+}
+#grid-container{
+    margin-top: 5px;
+    background-color: rgba(255,99,71);
+    padding: 5px;
+}
+.grid{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-gap: 3px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.grid div{
+    background-color: #fff;
+    font-family: arial;
+    text-align: center;
+    font-size: 1.6rem;
+    padding: 2px;
+}
+#formulario{
+    background-color: rgba(173, 216, 230, 1.0);
+}
+.Formulario-contrato{
+    font-family: Arial;
+    font-size: 1.8rem;
+    padding: 10px;
+    text-align: left;
+    margin-left: 5%;
+    font-weight: bold;
+}
+input{
+    font-family: sans-serif;
+    font-size: 1.7rem;
+    padding: 5px;
+}
+.dados-formulario{
+    width: 20%;
+}
+nav{
+    text-align: right;
+    margin-top: 10px;
+    font-weight: bold;
+    font-family: arial;
+    font-size: 1.6rem;
+    margin-right: 2%;
+    word-spacing: 20px;
+}
+@media(min-width: 320px) and (max-width: 450px){
+    nav{
+        text-align: center;
+        margin-top: 10px;
+        font-weight: bold;
+        font-family: arial;
+        font-size: 1.6rem;
+        word-spacing: 15px;
+    }
+}
+a{
+    text-decoration: none;
+    color: rgba(255, 255, 255, 1.0);
+    transition: all 5ms ease-in-out;
+}
+a:hover{
+    color: rgba(255, 255, 0, 1.0);
+}
+.imagem-grid{
+    width: 33rem;
+    height: 22rem;
+    border-radius: 4%;
+}
+.texto-grid{
+    font-family: arial;
+    font-size: 1.6rem;
+    text-align: center;
+    font-weight: bold;
+}
+.link-grid{
+    color: #32CD32;
+    font-weight: bold;
+    font-size: 1.8rem;
+    background-color: #000;
+    border-radius: 20px;
+    padding: 3px;
+}
